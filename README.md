@@ -7,6 +7,6 @@
   - [Sentinel Map with live attacks](https://github.com/darvinpatel/sentinelMap)
  
 - <b>SOC Automation Lab(SIEM+SOAR)</b>
-  - [Wazuh + The Hive + Shuffler (WORK IN PROGRESS)](https://github.com/darwindpatel)
+  - [Wazuh + The Hive + Shuffler](https://github.com/darvinpatel/soc-automation-lab)
 
   
