@@ -8,5 +8,8 @@
  
 - <b>SOC Automation Lab(SIEM+SOAR)</b>
   - [Wazuh + The Hive + Shuffler integrated SOC lab](https://github.com/darvinpatel/soc-automation-lab)
+ 
+- <b>Vulnerability management</b>
+  - [Nessus Scans](https://github.com/darvinpatel/nessus-vulnerability-management)
 
   
