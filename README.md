@@ -1,4 +1,4 @@
-<h1>Hi, I'm Darvin! <br/><a href="https://www.linkedin.com/in/darvinpatel/">Cybersecurity Professional</a>
+<h1>Hi, I'm Darvin! <br/><a href="https://www.linkedin.com/in/darvinpatel/"></a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
