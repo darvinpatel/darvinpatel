@@ -1,6 +1,6 @@
 <h1>Hi, I'm Darvin! <br/><a href="https://www.linkedin.com/in/darvinpatel/"></a>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻Projects:</h2>
 
 - <b>Azure Sentinel</b>
   - [Sentinel Walkthrough](https://github.com/darvinpatel/sentinel-walkthrough)
