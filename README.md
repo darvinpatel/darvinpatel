@@ -13,3 +13,5 @@
   - [Nessus Scans](https://github.com/darvinpatel/nessus-vulnerability-management)
 
   
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=darvinpatel&show_icons=true&theme=dracula&locale=en&layout=compact" alt="darvinpatel" /></p>
+
