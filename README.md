@@ -44,8 +44,3 @@ Software engineer with 5+ years of experience.  Worked for consultancies, large 
 ![](https://img.shields.io/badge/Methodology-Agile-informational?style=flat&color=blue)
 ![](https://img.shields.io/badge/Methodology-DevOps-informational?style=flat&color=blue)
 ![](https://img.shields.io/badge/Methodology-CI/CD-informational?style=flat&color=blue)
-
----
-  
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=darvinpatel&show_icons=true&theme=dracula&locale=en&layout=compact" alt="darvinpatel" /></p>
-
