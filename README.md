@@ -1,46 +1,95 @@
+<div align="center">
+
 [![Header](https://github.com/darvinpatel/darvinpatel/blob/0f4a61567dd005100e8cf10e017643ef17b540f5/images/banner.gif)](https://github.com/darvinpatel)
 
-## 👋 Hello! 
-Software engineer with 5+ years of experience.  Worked for consultancies, large enterprise products, and award-winning agencies.  Familiar with both remote, and in-office roles.  Always seeking to take ownership of the project and deliver faster than expected.  Comfortable for web, mobile, and API development and testing.
+### Software Engineer · Sydney, Australia
 
-## 🛠️ Technologies & Tools
+Building reliable web, mobile, and API products across consultancies, enterprise teams, and award-winning agencies.
 
-### Programming Languages & Frameworks
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&color=informational&logo=javascript)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&color=informational&logo=typescript)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&color=informational&logo=react)
-![](https://img.shields.io/badge/Code-Vue-informational?style=flat&color=informational&logo=vue.js)
-![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&color=informational&logo=node.js)
-![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&color=informational&logo=html5)
-![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&color=informational&logo=css3)
+[![Portfolio](https://img.shields.io/badge/Portfolio-darvinpatel.com-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.darvinpatel.com/)
+[![WakaTime](https://img.shields.io/badge/WakaTime-@darvinpatel-000000?style=for-the-badge&logo=wakatime&logoColor=white)](https://wakatime.com/@darvinpatel)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darvinpatel)
+[![X](https://img.shields.io/badge/X-@iamdarvinpatel-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/iamdarvinpatel)
 
-### Testing & Quality Assurance
-![](https://img.shields.io/badge/Test-Playwright-informational?style=flat&color=success&logo=playwright)
-![](https://img.shields.io/badge/Test-Jest-informational?style=flat&color=success&logo=jest)
-![](https://img.shields.io/badge/Test-End--to--End-informational?style=flat&color=success)
-![](https://img.shields.io/badge/Test-API-informational?style=flat&color=success)
-![](https://img.shields.io/badge/Test-Automation-informational?style=flat&color=success)
+</div>
 
-### Cloud & DevOps
-![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&color=warning&logo=amazon-aws)
-![](https://img.shields.io/badge/Cloud-S3-informational?style=flat&color=warning&logo=amazon-s3)
-![](https://img.shields.io/badge/Cloud-CloudFront-informational?style=flat&color=warning&logo=amazon-cloudfront)
-![](https://img.shields.io/badge/Cloud-Route53-informational?style=flat&color=warning&logo=amazon-route53)
-![](https://img.shields.io/badge/Cloud-Lambda-informational?style=flat&color=warning&logo=aws-lambda)
-![](https://img.shields.io/badge/Cloud-API_Gateway-informational?style=flat&color=warning&logo=amazon-api-gateway)
-![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&color=warning&logo=docker)
+---
 
-### Build Tools & Development
-![](https://img.shields.io/badge/Tool-Webpack-informational?style=flat&color=warning&logo=webpack)
-![](https://img.shields.io/badge/Tool-Git-informational?style=flat&color=warning&logo=git)
-![](https://img.shields.io/badge/Tool-GitHub-informational?style=flat&color=warning&logo=github)
-![](https://img.shields.io/badge/Tool-VSCode-informational?style=flat&color=warning&logo=visual-studio-code)
+## About
 
-### Styling & Design
-![](https://img.shields.io/badge/Style-SCSS-informational?style=flat&color=warning&logo=sass)
-![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&color=warning&logo=css3)
+Software engineer with **5+ years** of experience shipping production software for consultancies, large enterprise products, and award-winning agencies. Comfortable in **remote and in-office** environments.
 
-### Methodologies
-![](https://img.shields.io/badge/Methodology-Agile-informational?style=flat&color=blue)
-![](https://img.shields.io/badge/Methodology-DevOps-informational?style=flat&color=blue)
-![](https://img.shields.io/badge/Methodology-CI/CD-informational?style=flat&color=blue)
+I take ownership end-to-end — from architecture and implementation to testing and delivery — and focus on shipping quality work ahead of schedule.
+
+**Focus areas:** full-stack web · mobile · REST/GraphQL APIs · test automation · cloud infrastructure
+
+---
+
+## GitHub & Coding Activity
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=darvinpatel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=darvinpatel&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+
+<br />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/wakatime?username=darvinpatel&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" alt="WakaTime Stats" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=darvinpatel&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
+## Tech Stack
+
+<details open>
+<summary><b>Languages & Frameworks</b></summary>
+<br />
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>Testing & Quality</b></summary>
+<br />
+
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![E2E Testing](https://img.shields.io/badge/E2E-Testing-6366F1?style=flat-square)
+![API Testing](https://img.shields.io/badge/API-Testing-6366F1?style=flat-square)
+![Test Automation](https://img.shields.io/badge/Test-Automation-6366F1?style=flat-square)
+
+</details>
+
+<details>
+<summary><b>Cloud & DevOps</b></summary>
+<br />
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
+![CloudFront](https://img.shields.io/badge/CloudFront-232F3E?style=flat-square&logo=amazoncloudfront&logoColor=white)
+![Route 53](https://img.shields.io/badge/Route_53-8C4FFF?style=flat-square&logo=amazonroute53&logoColor=white)
+![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
+![API Gateway](https://img.shields.io/badge/API_Gateway-FF4F8B?style=flat-square&logo=amazonapigateway&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>Tools & Practices</b></summary>
+<br />
+
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=
