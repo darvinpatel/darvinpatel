@@ -40,6 +40,76 @@ I take ownership end-to-end — from architecture and implementation to testing 
 </div>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-174%20hrs%2015%20mins-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 38 Contributions in the Year 2026
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 24 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                456 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+🌆 Daytime                1077 commits        ██████░░░░░░░░░░░░░░░░░░░   22.47 % 
+🌃 Evening                1570 commits        ████████░░░░░░░░░░░░░░░░░   32.76 % 
+🌙 Night                  1689 commits        █████████░░░░░░░░░░░░░░░░   35.25 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   640 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
+Tuesday                  613 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.79 % 
+Wednesday                678 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
+Thursday                 621 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
+Friday                   779 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
+Saturday                 785 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
+Sunday                   676 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+TypeScript               9 hrs 4 mins        ████████████░░░░░░░░░░░░░   48.36 % 
+Other                    3 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
+Bash                     1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
+Markdown                 1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
+JSON                     1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
+
+🔥 Editors: 
+VS Code                  18 hrs 38 mins      █████████████████████████   99.31 % 
+Claude Code              7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+```
+
+**I Mostly Code in TypeScript** 
+
+```text
+TypeScript               18 repos            ████████████████░░░░░░░░░   64.29 % 
+JavaScript               4 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+HTML                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
+Astro                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/darvinpatel/darvinpatel/main/assets/bar_graph.png)
+
+
+ Last Updated on 15/06/2026 01:39:57 UTC
 <!--END_SECTION:waka-->
 
 ---
