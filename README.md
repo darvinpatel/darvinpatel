@@ -41,9 +41,9 @@ I take ownership end-to-end — from architecture and implementation to testing 
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-196%20hrs%2027%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-196%20hrs%2038%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-43-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -82,16 +82,15 @@ Sunday                   691 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               1 hr 42 mins        █████████████░░░░░░░░░░░░   50.09 % 
-Other                    38 mins             █████░░░░░░░░░░░░░░░░░░░░   18.95 % 
-Bash                     37 mins             █████░░░░░░░░░░░░░░░░░░░░   18.45 % 
-Markdown                 20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
-Go                       4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
+TypeScript               28 mins             █████████████░░░░░░░░░░░░   50.11 % 
+Bash                     20 mins             █████████░░░░░░░░░░░░░░░░   35.30 % 
+Other                    8 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 
 🔥 Editors: 
-Claude Code              1 hr 20 mins        ██████████░░░░░░░░░░░░░░░   39.34 % 
-VS Code                  1 hr 9 mins         █████████░░░░░░░░░░░░░░░░   34.03 % 
-Cursor                   54 mins             ███████░░░░░░░░░░░░░░░░░░   26.63 % 
+Claude Code              41 mins             ██████████████████░░░░░░░   73.72 % 
+Cursor                   8 mins              ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
+VS Code                  6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -111,7 +110,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/darvinpatel/darvinpatel/main/assets/bar_graph.png)
 
 
- Last Updated on 30/06/2026 00:28:20 UTC
+ Last Updated on 01/07/2026 00:29:03 UTC
 <!--END_SECTION:waka-->
 
 ---
