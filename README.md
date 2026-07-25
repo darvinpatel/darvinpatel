@@ -82,16 +82,16 @@ Sunday                   763 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               10 hrs 2 mins       ███████████████░░░░░░░░░░   59.19 % 
-Other                    1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
-Text                     1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
-JSON                     1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
-Markdown                 1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
+TypeScript               5 hrs 16 mins       ██████████████░░░░░░░░░░░   55.61 % 
+Other                    56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Text                     47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
+JSON                     42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
+Markdown                 30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
 
 🔥 Editors: 
-Cursor                   16 hrs 35 mins      ████████████████████████░   97.83 % 
-VS Code                  19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
-Claude Code              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+Cursor                   9 hrs 12 mins       ████████████████████████░   97.07 % 
+VS Code                  14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
+Claude Code              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -111,7 +111,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/darvinpatel/darvinpatel/main/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2026 01:29:05 UTC
+ Last Updated on 25/07/2026 01:29:33 UTC
 <!--END_SECTION:waka-->
 
 ---
