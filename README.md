@@ -41,7 +41,9 @@ I take ownership end-to-end — from architecture and implementation to testing 
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-263%20hrs%2039%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-255%20hrs%2052%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-141%20hrs%2019%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -49,7 +51,7 @@ I take ownership end-to-end — from architecture and implementation to testing 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 147 Contributions in the Year 2026
+> 🏆 148 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -61,18 +63,18 @@ I take ownership end-to-end — from architecture and implementation to testing 
 
 ```text
 🌞 Morning                566 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
-🌆 Daytime                1444 commits        ███████░░░░░░░░░░░░░░░░░░   26.58 % 
+🌆 Daytime                1445 commits        ███████░░░░░░░░░░░░░░░░░░   26.60 % 
 🌃 Evening                1721 commits        ████████░░░░░░░░░░░░░░░░░   31.68 % 
 🌙 Night                  1701 commits        ████████░░░░░░░░░░░░░░░░░   31.31 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   703 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
+Monday                   704 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
 Tuesday                  630 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
 Wednesday                758 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
 Thursday                 641 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
-Friday                   1059 commits        █████░░░░░░░░░░░░░░░░░░░░   19.50 % 
+Friday                   1059 commits        █████░░░░░░░░░░░░░░░░░░░░   19.49 % 
 Saturday                 867 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.96 % 
 Sunday                   774 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
 ```
@@ -82,16 +84,38 @@ Sunday                   774 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               9 hrs 29 mins       ██████████████░░░░░░░░░░░   57.07 % 
-Markdown                 2 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
-Text                     1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-Other                    1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
-JSON                     47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
+TypeScript               9 hrs 36 mins       ██████████████░░░░░░░░░░░   55.23 % 
+Markdown                 2 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
+Text                     1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
+Other                    1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
+JSON                     58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
 
 🔥 Editors: 
-Cursor                   16 hrs 20 mins      █████████████████████████   98.33 % 
-VS Code                  14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
-Claude Code              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+Cursor                   17 hrs 21 mins      █████████████████████████   99.75 % 
+Claude Code              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 16 hrs 50 mins (96.79%)
+
+✍️ 6,973 lines written by AI, 12 lines written by hand (99.83% AI-written)
+
+🔤 776,385 Input Tokens, 6,485 Output Tokens
+
+💵 $4.04 Estimated AI Cost This Week
+
+🧠 41 AI Sessions, 226 AI Prompts
+
+Composer                 1,166 lines         █████████████████████████   99.40 % 
+Opus                     7 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.83% of written lines came from AI
+📄 Detailed Prompter — average 818 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 0.17% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -111,7 +135,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/darvinpatel/darvinpatel/main/assets/bar_graph.png)
 
 
- Last Updated on 27/07/2026 01:50:23 UTC
+ Last Updated on 28/07/2026 01:25:05 UTC
 <!--END_SECTION:waka-->
 
 ---
