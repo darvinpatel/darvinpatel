@@ -16,4 +16,5 @@ jobs:
           SHOW_OS: "False"
           SHOW_PROJECTS: "False"
           SHOW_TIMEZONE: "False"
+          SHOW_PROFILE_VIEWS: "False"
           BADGE_STYLE: "flat-square"

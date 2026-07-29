@@ -38,14 +38,16 @@ I take ownership end-to-end — from architecture and implementation to testing 
 <img height="165" src="https://github-readme-stats.vercel.app/api/wakatime?username=darvinpatel&theme=github_dark&hide_border=true&layout=compact&langs_count=6" alt="WakaTime Stats" />
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=darvinpatel&theme=github_dark&hide_border=true" alt="GitHub Streak" />
 
+<br />
+
+![Profile views](https://komarev.com/ghpvc/?username=darvinpatel&label=Profile%20views&color=0ea5e9&style=flat)
+
 </div>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-255%20hrs%2052%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-141%20hrs%2019%20mins-blue?style=flat)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
