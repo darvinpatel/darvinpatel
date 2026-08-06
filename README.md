@@ -53,7 +53,7 @@ I take ownership end-to-end — from architecture and implementation to testing 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 154 Contributions in the Year 2026
+> 🏆 156 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -64,18 +64,18 @@ I take ownership end-to-end — from architecture and implementation to testing 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                569 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.46 % 
+🌞 Morning                570 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
 🌆 Daytime                1446 commits        ███████░░░░░░░░░░░░░░░░░░   26.59 % 
-🌃 Evening                1722 commits        ████████░░░░░░░░░░░░░░░░░   31.67 % 
-🌙 Night                  1701 commits        ████████░░░░░░░░░░░░░░░░░   31.28 % 
+🌃 Evening                1722 commits        ████████░░░░░░░░░░░░░░░░░   31.66 % 
+🌙 Night                  1701 commits        ████████░░░░░░░░░░░░░░░░░   31.27 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   704 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.95 % 
-Tuesday                  630 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
+Monday                   704 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
+Tuesday                  630 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
 Wednesday                762 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
-Thursday                 641 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
+Thursday                 642 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
 Friday                   1059 commits        █████░░░░░░░░░░░░░░░░░░░░   19.47 % 
 Saturday                 867 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
 Sunday                   775 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
@@ -86,49 +86,49 @@ Sunday                   775 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               1 hr 20 mins        ████████░░░░░░░░░░░░░░░░░   31.48 % 
-Markdown                 57 mins             ██████░░░░░░░░░░░░░░░░░░░   22.36 % 
-JSON                     34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
-Bash                     25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
-Text                     24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
+TypeScript               7 hrs 15 mins       █████████████░░░░░░░░░░░░   50.82 % 
+Gherkin                  1 hr 57 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
+Bash                     1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
+Markdown                 1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
+Text                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
 
 🔥 Editors: 
-Cursor                   3 hrs 31 mins       █████████████████████░░░░   82.57 % 
-Claude Code              34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
-VS Code                  10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
+Claude Code              7 hrs 48 mins       ██████████████░░░░░░░░░░░   54.59 % 
+Cursor                   5 hrs 36 mins       ██████████░░░░░░░░░░░░░░░   39.24 % 
+VS Code                  52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 42 mins (86.72%)
+⏱ AI Coding Time: 12 hrs 54 mins (90.31%)
 
-✍️ 2,792 lines written by AI, 4 lines written by hand (99.86% AI-written)
+✍️ 6,760 lines written by AI, 28 lines written by hand (99.59% AI-written)
 
-🔤 17,131,906 Input Tokens, 22,043 Output Tokens
+🔤 121,548,232 Input Tokens, 428,114 Output Tokens
 
-💵 $86.21 Estimated AI Cost This Week
+💵 $617.83 Estimated AI Cost This Week
 
-🧠 14 AI Sessions, 48 AI Prompts
+🧠 19 AI Sessions, 102 AI Prompts
 
-Composer                 72 lines            ███████████████████░░░░░░   75.00 % 
-Opus                     24 lines            ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+Opus                     6,183 lines         █████████████████████████   100.00 % 
+Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.86% of written lines came from AI
-📄 Detailed Prompter — average 720 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 5.13% of changed lines were hand-edited
+🤖 AI-Driven — 99.59% of written lines came from AI
+📝 Concise Prompter — average 482 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 0.73% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               23 repos            █████████████████░░░░░░░░   69.70 % 
-JavaScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
-HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-Astro                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
-CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+TypeScript               24 repos            ██████████████████░░░░░░░   70.59 % 
+JavaScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+Astro                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
 ```
 
 
@@ -138,7 +138,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/darvinpatel/darvinpatel/main/assets/bar_graph.png)
 
 
- Last Updated on 05/08/2026 01:26:39 UTC
+ Last Updated on 06/08/2026 01:24:05 UTC
 <!--END_SECTION:waka-->
 
 ---
