@@ -45,9 +45,9 @@ I take ownership end-to-end — from architecture and implementation to testing 
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-288%20hrs%2050%20mins-blue?style=flat-square)
+![Code Time](http://img.shields.io/badge/Code%20Time-289%20hrs%2023%20mins-blue?style=flat-square)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-174%20hrs%2014%20mins-blue?style=flat-square)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-174%20hrs%2048%20mins-blue?style=flat-square)
 
 **🐱 My GitHub Data** 
 
@@ -86,40 +86,40 @@ Sunday                   779 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               2 hrs 48 mins       ██████████░░░░░░░░░░░░░░░   38.67 % 
-Other                    1 hr 29 mins        █████░░░░░░░░░░░░░░░░░░░░   20.65 % 
-Python                   1 hr 8 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.81 % 
-Bash                     40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
-Markdown                 26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
+TypeScript               2 hrs 7 mins        █████████████░░░░░░░░░░░░   53.48 % 
+Python                   49 mins             █████░░░░░░░░░░░░░░░░░░░░   20.65 % 
+Markdown                 26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
+Bash                     21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
+TOML                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
 
 🔥 Editors: 
-Claude Code              3 hrs 44 mins       █████████████░░░░░░░░░░░░   51.66 % 
-Cursor                   2 hrs 36 mins       █████████░░░░░░░░░░░░░░░░   35.99 % 
-Agent                    53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
+Cursor                   2 hrs 13 mins       ██████████████░░░░░░░░░░░   55.98 % 
+Claude Code              1 hr 2 mins         ███████░░░░░░░░░░░░░░░░░░   26.29 % 
+Agent                    42 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.73 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 37 mins (91.42%)
+⏱ AI Coding Time: 3 hrs 21 mins (84.66%)
 
-✍️ 3,536 lines written by AI, 2 lines written by hand (99.94% AI-written)
+✍️ 3,355 lines written by AI, 1 lines written by hand (99.97% AI-written)
 
-🔤 1,187,886 Input Tokens, 175,843 Output Tokens
+🔤 689,653 Input Tokens, 121,639 Output Tokens
 
-💵 $16.42 Estimated AI Cost This Week
+💵 $9.08 Estimated AI Cost This Week
 
-🧠 36 AI Sessions, 120 AI Prompts
+🧠 33 AI Sessions, 93 AI Prompts
 
-Grok                     2,508 lines         ██████████████████░░░░░░░   70.59 % 
-Opus                     1,045 lines         ███████░░░░░░░░░░░░░░░░░░   29.41 % 
+Grok                     2,763 lines         ████████████████████░░░░░   81.94 % 
+Opus                     609 lines           █████░░░░░░░░░░░░░░░░░░░░   18.06 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.94% of written lines came from AI
-📚 Verbose Prompter — average 1,631 characters per prompt
+🤖 AI-Driven — 99.97% of written lines came from AI
+📚 Verbose Prompter — average 2,955 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.25% of changed lines were hand-edited
+🚀 High AI Trust — 0.09% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -139,7 +139,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/darvinpatel/darvinpatel/main/assets/bar_graph.png)
 
 
- Last Updated on 18/08/2026 00:34:59 UTC
+ Last Updated on 19/08/2026 00:36:06 UTC
 <!--END_SECTION:waka-->
 
 ---
