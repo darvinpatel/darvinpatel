@@ -5,13 +5,14 @@ NSW Driver Licence: Class C
 
 ## About me
 
-Results-driven Digital Marketing Coordinator and Design Specialist with 5+ years of experience in social media strategy, content creation, and brand marketing. Currently leading marketing for Global Medics and Medacs Healthcare at MGG Health, owning social media end to end across LinkedIn, Instagram, and Facebook, plus events and merchandise. Background in performance marketing across Meta and TikTok, with experience briefing and managing specialists who run paid media. Skilled in campaigns that lift engagement, generate leads, and strengthen brand identity. Proficient in Adobe Creative Suite, video production, and marketing analytics.
+Results-driven Digital Marketing Coordinator and Design Specialist with 5+ years of experience in social media strategy, content creation, and brand marketing. Currently leading marketing for Global Medics and Medacs Healthcare at MGG Health, owning social media end to end across LinkedIn, Instagram, and Facebook, plus events, merchandise, website updates, and new web pages. Also creates the strategies and supporting documents behind that work. Background in performance marketing across Meta and TikTok, with experience briefing and managing specialists who run paid media. Proficient in Adobe Creative Suite, video production, and marketing analytics.
 
 ## Skills
 
 - **Social Media Management:** End-to-end LinkedIn, Instagram, and Facebook — strategy, content, publishing, community management, and reporting.
 - **Social Media Advertising:** Experienced in Meta Ads Manager, Instagram, and TikTok Ads for lead generation and ROI. Able to brief and manage people handling paid media.
 - **Events & Merchandise:** Plan and deliver brand events and merchandise programmes that support visibility and stakeholder engagement.
+- **Website & Content Strategy:** Update websites, create new web pages, and produce the strategies and supporting documents (briefs, content plans, and page copy) that guide those changes.
 - **Campaign Strategy & Content:** Full-funnel campaigns and branded assets (ads, reels, posts, landing pages) aligned to voice and conversion goals. Skilled in short-form video with Premiere Pro, After Effects, and TikTok tools.
 - **Influencer & PR Management:** Identify, negotiate, and manage influencer partnerships to boost brand visibility and engagement.
 - **Analytics & CRM:** Google Analytics, Meta Insights, LinkedIn Analytics, Shopify, Klaviyo, and Dreamweaver for reporting, automations, and newsletters. Familiar with SEO/SEM.
@@ -24,6 +25,7 @@ Results-driven Digital Marketing Coordinator and Design Specialist with 5+ years
 
 - Own end-to-end social media for Global Medics and Medacs Healthcare across LinkedIn, Instagram, and Facebook — strategy, content, publishing, community management, and reporting.
 - Lead marketing for two healthcare staffing brands within the MGG Health group, aligning activity with candidate attraction and client brand positioning.
+- Update brand websites and create new web pages, developing the strategy and relevant documents (briefs, content plans, and page copy) that support those changes.
 - Plan and deliver events and merchandise programmes that support brand presence, candidate engagement, and client relationships.
 - Brief and manage paid media specialists as needed, providing brand direction and performance oversight without hands-on media buying.
 
