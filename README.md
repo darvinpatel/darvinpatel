@@ -45,9 +45,9 @@ I take ownership end-to-end — from architecture and implementation to testing 
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-333%20hrs%207%20mins-blue?style=flat-square)
+![Code Time](http://img.shields.io/badge/Code%20Time-334%20hrs%2056%20mins-blue?style=flat-square)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-224%20hrs%2053%20mins-blue?style=flat-square)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-226%20hrs%2023%20mins-blue?style=flat-square)
 
 **🐱 My GitHub Data** 
 
@@ -86,42 +86,43 @@ Sunday                   821 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               3 hrs 24 mins       ███████████░░░░░░░░░░░░░░   44.52 % 
-Other                    1 hr 32 mins        █████░░░░░░░░░░░░░░░░░░░░   20.22 % 
-Bash                     55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.08 % 
-Markdown                 49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.69 % 
-Text                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
+TypeScript               3 hrs 26 mins       ████████████░░░░░░░░░░░░░   47.89 % 
+Other                    1 hr 26 mins        █████░░░░░░░░░░░░░░░░░░░░   20.16 % 
+Markdown                 53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
+JSON                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
+Text                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
 
 🔥 Editors: 
-Cursor                   4 hrs 4 mins        █████████████░░░░░░░░░░░░   53.14 % 
-Claude Code              1 hr 50 mins        ██████░░░░░░░░░░░░░░░░░░░   24.04 % 
-Agent                    1 hr 34 mins        █████░░░░░░░░░░░░░░░░░░░░   20.49 % 
-VS Code                  10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+Cursor                   4 hrs 12 mins       ███████████████░░░░░░░░░░   58.75 % 
+Claude Code              1 hr 40 mins        ██████░░░░░░░░░░░░░░░░░░░   23.30 % 
+Agent                    58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
+VS Code                  18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 32 mins (98.5%)
+⏱ AI Coding Time: 6 hrs 57 mins (96.94%)
 
-✍️ 4,982 lines written by AI, 58 lines written by hand (98.85% AI-written)
+✍️ 6,006 lines written by AI, 57 lines written by hand (99.06% AI-written)
 
-🔤 900,432 Input Tokens, 499,087 Output Tokens
+🔤 1,583,654 Input Tokens, 564,077 Output Tokens
 
-💵 $20.39 Estimated AI Cost This Week
+💵 $21.88 Estimated AI Cost This Week
 
-🧠 49 AI Sessions, 135 AI Prompts
+🧠 55 AI Sessions, 126 AI Prompts
 
-Grok                     5,109 lines         █████████████████████████   100.00 % 
-Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Grok                     5,020 lines         █████████████████████░░░░   85.30 % 
+Opus                     865 lines           ████░░░░░░░░░░░░░░░░░░░░░   14.70 % 
 Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Cursor                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.85% of written lines came from AI
-📚 Verbose Prompter — average 12,515 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 1.2% of changed lines were hand-edited
+🤖 AI-Driven — 99.06% of written lines came from AI
+📚 Verbose Prompter — average 15,468 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0.94% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -141,7 +142,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/darvinpatel/darvinpatel/main/assets/bar_graph.png)
 
 
- Last Updated on 18/09/2026 01:58:33 UTC
+ Last Updated on 19/09/2026 02:02:59 UTC
 <!--END_SECTION:waka-->
 
 ---
