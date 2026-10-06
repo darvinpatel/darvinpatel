@@ -45,9 +45,9 @@ I take ownership end-to-end — from architecture and implementation to testing 
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-350%20hrs%201%20min-blue?style=flat-square)
+![Code Time](http://img.shields.io/badge/Code%20Time-350%20hrs%206%20mins-blue?style=flat-square)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-243%20hrs%2028%20mins-blue?style=flat-square)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-244%20hrs%2023%20mins-blue?style=flat-square)
 
 **🐱 My GitHub Data** 
 
@@ -86,42 +86,43 @@ Sunday                   829 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               4 hrs 42 mins       ██████████░░░░░░░░░░░░░░░   41.59 % 
-Text                     1 hr 44 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
-JSON                     1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
-Bash                     54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
-JavaScript               46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
+TypeScript               5 hrs 5 mins        ██████████░░░░░░░░░░░░░░░   41.10 % 
+Text                     1 hr 44 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
+Other                    1 hr 34 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
+JSON                     1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
+JavaScript               46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
 
 🔥 Editors: 
-Cursor                   7 hrs 42 mins       █████████████████░░░░░░░░   68.02 % 
-Bot                      1 hr 18 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
-Claude Code              1 hr 16 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
-Agent                    51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
-VS Code                  11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+Cursor                   7 hrs 43 mins       ████████████████░░░░░░░░░   62.44 % 
+Bot                      2 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.30 % 
+Claude Code              1 hr 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
+Agent                    54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
+VS Code                  14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 1 min (97.33%)
+⏱ AI Coding Time: 12 hrs 4 mins (97.5%)
 
-✍️ 6,750 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 7,166 lines written by AI, 1 lines written by hand (99.99% AI-written)
 
-🔤 426,511 Input Tokens, 48,731 Output Tokens
+🔤 552,474 Input Tokens, 69,479 Output Tokens
 
-💵 $7.97 Estimated AI Cost This Week
+💵 $6.13 Estimated AI Cost This Week
 
-🧠 17 AI Sessions, 118 AI Prompts
+🧠 23 AI Sessions, 139 AI Prompts
 
-Grok                     6,279 lines         ███████████████████████░░   91.04 % 
-Composer                 574 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
-Opus                     44 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+Grok                     6,279 lines         █████████████████████░░░░   85.86 % 
+Composer                 574 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
+Opus                     460 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 220 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🤖 AI-Driven — 99.99% of written lines came from AI
+📝 Concise Prompter — average 215 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 5.31% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -141,7 +142,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/darvinpatel/darvinpatel/main/assets/bar_graph.png)
 
 
- Last Updated on 05/10/2026 02:48:40 UTC
+ Last Updated on 06/10/2026 03:40:29 UTC
 <!--END_SECTION:waka-->
 
 ---
