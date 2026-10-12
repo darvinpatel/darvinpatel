@@ -45,15 +45,15 @@ I take ownership end-to-end — from architecture and implementation to testing 
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-350%20hrs%2058%20mins-blue?style=flat-square)
+![Code Time](http://img.shields.io/badge/Code%20Time-356%20hrs%204%20mins-blue?style=flat-square)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-246%20hrs%2035%20mins-blue?style=flat-square)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-251%20hrs%2056%20mins-blue?style=flat-square)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 240 Contributions in the Year 2026
+> 🏆 246 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -64,21 +64,21 @@ I take ownership end-to-end — from architecture and implementation to testing 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                605 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
-🌆 Daytime                1547 commits        ███████░░░░░░░░░░░░░░░░░░   27.37 % 
-🌃 Evening                1791 commits        ████████░░░░░░░░░░░░░░░░░   31.68 % 
-🌙 Night                  1710 commits        ████████░░░░░░░░░░░░░░░░░   30.25 % 
+🌞 Morning                607 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
+🌆 Daytime                1551 commits        ███████░░░░░░░░░░░░░░░░░░   27.41 % 
+🌃 Evening                1791 commits        ████████░░░░░░░░░░░░░░░░░   31.65 % 
+🌙 Night                  1710 commits        ████████░░░░░░░░░░░░░░░░░   30.22 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   724 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
-Tuesday                  639 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
-Wednesday                794 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
-Thursday                 661 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
-Friday                   1096 commits        █████░░░░░░░░░░░░░░░░░░░░   19.39 % 
-Saturday                 908 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
-Sunday                   831 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.70 % 
+Monday                   726 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
+Tuesday                  639 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
+Wednesday                794 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
+Thursday                 661 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
+Friday                   1096 commits        █████░░░░░░░░░░░░░░░░░░░░   19.37 % 
+Saturday                 908 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.05 % 
+Sunday                   835 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.76 % 
 ```
 
 
@@ -86,42 +86,43 @@ Sunday                   831 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               5 hrs 12 mins       ████████████░░░░░░░░░░░░░   48.44 % 
-Other                    2 hrs 17 mins       █████░░░░░░░░░░░░░░░░░░░░   21.31 % 
-Bash                     45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
-Text                     43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
-JSON                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
+TypeScript               2 hrs 49 mins       ████████░░░░░░░░░░░░░░░░░   32.84 % 
+Other                    2 hrs 33 mins       ███████░░░░░░░░░░░░░░░░░░   29.76 % 
+Text                     38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
+Swift                    30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+XML                      25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
 
 🔥 Editors: 
-Cursor                   5 hrs 9 mins        ████████████░░░░░░░░░░░░░   47.97 % 
-Bot                      4 hrs 1 min         █████████░░░░░░░░░░░░░░░░   37.48 % 
-Agent                    1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
-Claude Code              21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
-VS Code                  8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+Cursor                   3 hrs 9 mins        █████████░░░░░░░░░░░░░░░░   36.70 % 
+Bot                      3 hrs 3 mins        █████████░░░░░░░░░░░░░░░░   35.54 % 
+Agent                    1 hr 52 mins        █████░░░░░░░░░░░░░░░░░░░░   21.82 % 
+Claude Code              21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
+VS Code                  8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 37 mins (98.79%)
+⏱ AI Coding Time: 8 hrs 27 mins (98.31%)
 
-✍️ 11,514 lines written by AI, 1 lines written by hand (99.99% AI-written)
+✍️ 7,261 lines written by AI, 1 lines written by hand (99.99% AI-written)
 
 🔤 89,397 Input Tokens, 9,167 Output Tokens
 
 💵 $0.86 Estimated AI Cost This Week
 
-🧠 26 AI Sessions, 135 AI Prompts
+🧠 25 AI Sessions, 99 AI Prompts
 
-K                        6,616 lines         ██████████████░░░░░░░░░░░   54.39 % 
-Grok                     4,973 lines         ██████████░░░░░░░░░░░░░░░   40.89 % 
-Composer                 574 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
+K                        6,755 lines         █████████████████████░░░░   84.47 % 
+Composer                 574 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
+Grok                     511 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.39 % 
+Cursor                   157 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.99% of written lines came from AI
-📝 Concise Prompter — average 301 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
+📝 Concise Prompter — average 358 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.01% of changed lines were hand-edited
 ```
 
@@ -142,7 +143,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/darvinpatel/darvinpatel/main/assets/bar_graph.png)
 
 
- Last Updated on 11/10/2026 02:39:56 UTC
+ Last Updated on 12/10/2026 03:03:53 UTC
 <!--END_SECTION:waka-->
 
 ---
