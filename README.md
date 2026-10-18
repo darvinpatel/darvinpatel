@@ -86,42 +86,42 @@ Sunday                   843 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    4 hrs 19 mins       █████████░░░░░░░░░░░░░░░░   35.68 % 
-TypeScript               4 hrs 2 mins        ████████░░░░░░░░░░░░░░░░░   33.38 % 
-Text                     45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
-Markdown                 40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
-Swift                    30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
+Other                    4 hrs 19 mins       ████████████░░░░░░░░░░░░░   49.51 % 
+TypeScript               2 hrs 3 mins        ██████░░░░░░░░░░░░░░░░░░░   23.51 % 
+XML                      28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
+Markdown                 27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
+Swift                    24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
 
 🔥 Editors: 
-Bot                      5 hrs 21 mins       ███████████░░░░░░░░░░░░░░   44.18 % 
-Cursor                   3 hrs 33 mins       ███████░░░░░░░░░░░░░░░░░░   29.40 % 
-Agent                    1 hr 51 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.34 % 
-Claude Code              1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
-VS Code                  15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
+Bot                      5 hrs 8 mins        ███████████████░░░░░░░░░░   58.83 % 
+Agent                    1 hr 14 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
+Claude Code              1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
+Cursor                   1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
+VS Code                  15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 49 mins (97.62%)
+⏱ AI Coding Time: 8 hrs 27 mins (96.87%)
 
-✍️ 7,948 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 937 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
 🔤 936,835 Input Tokens, 74,886 Output Tokens
 
 💵 $7.55 Estimated AI Cost This Week
 
-🧠 44 AI Sessions, 172 AI Prompts
+🧠 38 AI Sessions, 123 AI Prompts
 
-K                        6,755 lines         █████████████████████░░░░   83.10 % 
-Grok                     1,053 lines         ███░░░░░░░░░░░░░░░░░░░░░░   12.95 % 
-Opus                     164 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
-Cursor                   157 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
+Grok                     544 lines           ██████████████░░░░░░░░░░░   54.18 % 
+Opus                     164 lines           ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
+Cursor                   157 lines           ████░░░░░░░░░░░░░░░░░░░░░   15.64 % 
+K                        139 lines           ███░░░░░░░░░░░░░░░░░░░░░░   13.84 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 282 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
+📝 Concise Prompter — average 148 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -142,7 +142,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/darvinpatel/darvinpatel/main/assets/bar_graph.png)
 
 
- Last Updated on 17/10/2026 01:56:40 UTC
+ Last Updated on 18/10/2026 01:55:55 UTC
 <!--END_SECTION:waka-->
 
 ---
