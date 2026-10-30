@@ -86,35 +86,34 @@ Sunday                   846 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    5 hrs 45 mins       ██████████████████░░░░░░░   70.80 % 
-TypeScript               1 hr 49 mins        ██████░░░░░░░░░░░░░░░░░░░   22.38 % 
-Bash                     33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
+Other                    5 hrs 27 mins       █████████████████░░░░░░░░   69.69 % 
+TypeScript               1 hr 49 mins        ██████░░░░░░░░░░░░░░░░░░░   23.24 % 
+Bash                     33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
 
 🔥 Editors: 
-Grok Bot                 5 hrs 44 mins       ██████████████████░░░░░░░   70.67 % 
-Cursor                   2 hrs 16 mins       ███████░░░░░░░░░░░░░░░░░░   28.11 % 
-Claude Code              5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Grok Bot                 5 hrs 26 mins       █████████████████░░░░░░░░   69.64 % 
+Cursor                   2 hrs 16 mins       ███████░░░░░░░░░░░░░░░░░░   29.19 % 
+Claude Code              5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 57 mins (98.03%)
+⏱ AI Coding Time: 7 hrs 39 mins (97.96%)
 
 ✍️ 14 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 265,423 Input Tokens, 69,377 Output Tokens
+🔤 263,104 Input Tokens, 68,401 Output Tokens
 
-💵 $7.98 Estimated AI Cost This Week
+💵 $7.92 Estimated AI Cost This Week
 
-🧠 44 AI Sessions, 117 AI Prompts
+🧠 40 AI Sessions, 106 AI Prompts
 
 Opus                     14 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 381 characters per prompt
+📝 Concise Prompter — average 413 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -136,7 +135,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/darvinpatel/darvinpatel/main/assets/bar_graph.png)
 
 
- Last Updated on 29/10/2026 03:17:10 UTC
+ Last Updated on 30/10/2026 03:20:03 UTC
 <!--END_SECTION:waka-->
 
 ---
