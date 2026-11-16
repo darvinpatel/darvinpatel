@@ -86,22 +86,22 @@ Sunday                   840 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    6 hrs 14 mins       ████████████░░░░░░░░░░░░░   48.82 % 
-TypeScript               4 hrs 13 mins       ████████░░░░░░░░░░░░░░░░░   33.08 % 
-Text                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
-JSON                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
-Markdown                 23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
+TypeScript               4 hrs 13 mins       ██████████░░░░░░░░░░░░░░░   41.49 % 
+Other                    3 hrs 39 mins       █████████░░░░░░░░░░░░░░░░   35.81 % 
+Text                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
+JSON                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
+Markdown                 23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
 
 🔥 Editors: 
-Grok Bot                 6 hrs 49 mins       █████████████░░░░░░░░░░░░   53.39 % 
-Cursor                   5 hrs 6 mins        ██████████░░░░░░░░░░░░░░░   39.91 % 
-Claude Code              51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
+Cursor                   5 hrs 6 mins        █████████████░░░░░░░░░░░░   50.05 % 
+Grok Bot                 4 hrs 14 mins       ██████████░░░░░░░░░░░░░░░   41.55 % 
+Claude Code              51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs 3 mins (94.33%)
+⏱ AI Coding Time: 9 hrs 28 mins (92.89%)
 
 ✍️ 1,484 lines written by AI, 79 lines written by hand (94.95% AI-written)
 
@@ -109,14 +109,14 @@ Claude Code              51 mins             ██░░░░░░░░░�
 
 💵 $24.60 Estimated AI Cost This Week
 
-🧠 40 AI Sessions, 125 AI Prompts
+🧠 33 AI Sessions, 89 AI Prompts
 
 Opus                     1,066 lines         █████████████████░░░░░░░░   66.42 % 
 Grok                     539 lines           ████████░░░░░░░░░░░░░░░░░   33.58 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 94.95% of written lines came from AI
-📝 Concise Prompter — average 337 characters per prompt
+📝 Concise Prompter — average 388 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 6.47% of changed lines were hand-edited
 ```
@@ -138,7 +138,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/darvinpatel/darvinpatel/main/assets/bar_graph.png)
 
 
- Last Updated on 15/11/2026 03:36:06 UTC
+ Last Updated on 16/11/2026 03:35:43 UTC
 <!--END_SECTION:waka-->
 
 ---
