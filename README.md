@@ -86,39 +86,39 @@ Sunday                   840 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               5 hrs 36 mins       ██████████████░░░░░░░░░░░   54.30 % 
-Other                    2 hrs 32 mins       ██████░░░░░░░░░░░░░░░░░░░   24.65 % 
-Text                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
-Markdown                 25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
-JSON                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
+TypeScript               5 hrs 29 mins       ██████████████░░░░░░░░░░░   58.00 % 
+Other                    2 hrs 31 mins       ███████░░░░░░░░░░░░░░░░░░   26.67 % 
+Text                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
+Markdown                 25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
+Python                   21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
 
 🔥 Editors: 
-Cursor                   6 hrs 32 mins       ████████████████░░░░░░░░░   63.32 % 
-Grok Bot                 3 hrs 7 mins        ████████░░░░░░░░░░░░░░░░░   30.25 % 
-Claude Code              39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
+Cursor                   6 hrs 4 mins        ████████████████░░░░░░░░░   64.12 % 
+Grok Bot                 2 hrs 54 mins       ████████░░░░░░░░░░░░░░░░░   30.66 % 
+Claude Code              29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 24 mins (90.98%)
+⏱ AI Coding Time: 8 hrs 47 mins (92.77%)
 
-✍️ 1,825 lines written by AI, 83 lines written by hand (95.65% AI-written)
+✍️ 1,804 lines written by AI, 6 lines written by hand (99.67% AI-written)
 
-🔤 1,551,764 Input Tokens, 275,301 Output Tokens
+🔤 1,459,286 Input Tokens, 265,319 Output Tokens
 
-💵 $27.49 Estimated AI Cost This Week
+💵 $26.59 Estimated AI Cost This Week
 
-🧠 27 AI Sessions, 76 AI Prompts
+🧠 18 AI Sessions, 66 AI Prompts
 
-Opus                     1,383 lines         ██████████████████░░░░░░░   71.96 % 
-Grok                     539 lines           ███████░░░░░░░░░░░░░░░░░░   28.04 % 
+Opus                     1,339 lines         ██████████████████░░░░░░░   71.30 % 
+Grok                     539 lines           ███████░░░░░░░░░░░░░░░░░░   28.70 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 95.65% of written lines came from AI
-📝 Concise Prompter — average 405 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 5.69% of changed lines were hand-edited
+🤖 AI-Driven — 99.67% of written lines came from AI
+📝 Concise Prompter — average 456 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 1.78% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -138,7 +138,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/darvinpatel/darvinpatel/main/assets/bar_graph.png)
 
 
- Last Updated on 17/11/2026 05:33:43 UTC
+ Last Updated on 18/11/2026 04:59:56 UTC
 <!--END_SECTION:waka-->
 
 ---
