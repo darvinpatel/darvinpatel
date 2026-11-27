@@ -45,9 +45,9 @@ I take ownership end-to-end — from architecture and implementation to testing 
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-394%20hrs%2025%20mins-blue?style=flat-square)
+![Code Time](http://img.shields.io/badge/Code%20Time-395%20hrs%2016%20mins-blue?style=flat-square)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-316%20hrs%201%20min-blue?style=flat-square)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-317%20hrs%202%20mins-blue?style=flat-square)
 
 **🐱 My GitHub Data** 
 
@@ -86,41 +86,41 @@ Sunday                   840 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               9 hrs 24 mins       ███████████░░░░░░░░░░░░░░   45.87 % 
-Other                    5 hrs 31 mins       ███████░░░░░░░░░░░░░░░░░░   26.91 % 
-Bash                     1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
-Text                     1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
-Markdown                 56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
+TypeScript               9 hrs 4 mins        ████████████░░░░░░░░░░░░░   46.72 % 
+Other                    5 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   25.96 % 
+Markdown                 1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.69 % 
+Bash                     1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
+Text                     1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
 
 🔥 Editors: 
-Cursor                   11 hrs 3 mins       █████████████░░░░░░░░░░░░   53.91 % 
-Grok Bot                 5 hrs 31 mins       ███████░░░░░░░░░░░░░░░░░░   26.96 % 
-Claude Code              3 hrs 33 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.33 % 
-Cursor Agent             22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
+Cursor                   9 hrs 35 mins       ████████████░░░░░░░░░░░░░   49.37 % 
+Grok Bot                 5 hrs 20 mins       ███████░░░░░░░░░░░░░░░░░░   27.50 % 
+Claude Code              4 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   21.23 % 
+Cursor Agent             22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 19 hrs 20 mins (94.27%)
+⏱ AI Coding Time: 18 hrs 35 mins (95.67%)
 
-✍️ 2,915 lines written by AI, 5 lines written by hand (99.83% AI-written)
+✍️ 3,112 lines written by AI, 5 lines written by hand (99.84% AI-written)
 
-🔤 1,422,760 Input Tokens, 310,243 Output Tokens
+🔤 1,768,300 Input Tokens, 290,735 Output Tokens
 
-💵 $32.93 Estimated AI Cost This Week
+💵 $32.34 Estimated AI Cost This Week
 
-🧠 51 AI Sessions, 281 AI Prompts
+🧠 48 AI Sessions, 275 AI Prompts
 
-Opus                     2,036 lines         ███████████████░░░░░░░░░░   61.16 % 
-Grok                     998 lines           ███████░░░░░░░░░░░░░░░░░░   29.98 % 
-Default                  295 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
+Opus                     2,231 lines         ████████████████░░░░░░░░░   63.31 % 
+Grok                     998 lines           ███████░░░░░░░░░░░░░░░░░░   28.32 % 
+Default                  295 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.83% of written lines came from AI
-📝 Concise Prompter — average 270 characters per prompt
+🤖 AI-Driven — 99.84% of written lines came from AI
+📝 Concise Prompter — average 294 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 0.18% of changed lines were hand-edited
+🚀 High AI Trust — 0.17% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -140,7 +140,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/darvinpatel/darvinpatel/main/assets/bar_graph.png)
 
 
- Last Updated on 26/11/2026 05:54:03 UTC
+ Last Updated on 27/11/2026 05:43:13 UTC
 <!--END_SECTION:waka-->
 
 ---
